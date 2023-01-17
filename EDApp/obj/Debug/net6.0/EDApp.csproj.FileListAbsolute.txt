@@ -1,0 +1,17 @@
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\bin\Debug\net6.0\EDApp.exe
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\bin\Debug\net6.0\EDApp.deps.json
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\bin\Debug\net6.0\EDApp.runtimeconfig.json
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\bin\Debug\net6.0\EDApp.dll
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\bin\Debug\net6.0\EDApp.pdb
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\obj\Debug\net6.0\EDApp.csproj.AssemblyReference.cache
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\obj\Debug\net6.0\EDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\obj\Debug\net6.0\EDApp.AssemblyInfoInputs.cache
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\obj\Debug\net6.0\EDApp.AssemblyInfo.cs
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\obj\Debug\net6.0\EDApp.csproj.CoreCompileInputs.cache
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\obj\Debug\net6.0\EDApp.dll
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\obj\Debug\net6.0\refint\EDApp.dll
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\obj\Debug\net6.0\EDApp.pdb
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\obj\Debug\net6.0\EDApp.genruntimeconfig.cache
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\obj\Debug\net6.0\ref\EDApp.dll
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\omkar.sabale\source\repos\EDApp\EDApp\obj\Debug\net6.0\EDApp.csproj.CopyComplete

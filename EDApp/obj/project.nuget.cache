@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UAxLzyhsF52hDxxAIsA/RmJdEE7/H4N3kixHEq977dMt709mRHZn01N2eqCMRje6jIa0r6WF1WyErT326yxCng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omkar.sabale\\source\\repos\\EDApp\\EDApp\\EDApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omkar.sabale\\.nuget\\packages\\bouncycastle.netcore\\1.9.0\\bouncycastle.netcore.1.9.0.nupkg.sha512",
+    "C:\\Users\\omkar.sabale\\.nuget\\packages\\bouncycastle.netcoresdk\\1.9.7\\bouncycastle.netcoresdk.1.9.7.nupkg.sha512",
+    "C:\\Users\\omkar.sabale\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}
